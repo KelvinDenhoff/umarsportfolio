@@ -48,12 +48,12 @@ header h1 {
 
 header h1::before {
     content: url("images/circle.png");
-    marin-right: 10px;
+    margin-right: 10px;
 }
 
 header h1::after {
     content: url("images/circle.png");
-    marin-left: 10px;
+    margin-left: 10px;
 }
 
 article p {
